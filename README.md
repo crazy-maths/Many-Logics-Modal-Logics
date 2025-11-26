@@ -69,5 +69,5 @@ python app.py
 
 ## Contact
 
-Created by [Rodrigo Alves](rodrigoalves@ua.pt)  
+Created by Rodrigo Alves (rodrigoalves@ua.pt)  
 Feel free to reach out with questions or suggestions.
